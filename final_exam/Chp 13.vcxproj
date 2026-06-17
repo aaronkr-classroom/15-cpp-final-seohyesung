@@ -126,6 +126,7 @@
     <ClCompile Include="Core.cpp" />
     <ClCompile Include="Grad.cpp" />
     <ClCompile Include="grade.cpp" />
+    <ClCompile Include="Intl.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="median.cpp" />
     <ClCompile Include="read_hw.cpp" />
@@ -135,6 +136,7 @@
     <ClInclude Include="Core.h" />
     <ClInclude Include="Grad.h" />
     <ClInclude Include="grade.h" />
+    <ClInclude Include="Intl.h" />
     <ClInclude Include="median.h" />
     <ClInclude Include="Student_info.h" />
     <ClInclude Include="Vec.h" />
